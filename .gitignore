@@ -1,0 +1,14 @@
+# User-specific files
+*.xcuserstate
+
+# Build folder
+build/
+
+# Xcode derived data
+DerivedData/
+
+# Xcode project workspace settings
+*.xcworkspace
+
+# Pod files
+Pods/
